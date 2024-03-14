@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/source/WhatsApp/Crypt14.h",
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/source/WhatsApp/Crypt14.cpp",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore.db.crypt14_tmp",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/key",
+		"/C/Users/cdick/AppData/Roaming/Sublime Text/Packages/ActionScript.sublime-package",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore.db.crypt14_tmpZLIB",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/1663826601889861/msgstore.db.crypt14",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/1663826601875897/msgstore.db.crypt14",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/1663662857494812/msgstore.db.crypt14",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore-2022-09-18.1.db.crypt14",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore-2022-09-20.1.db.crypt14_tmp",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore-2022-09-19.1.db.crypt14_tmpZLIB",
+		"/C/DBack_android_backup/2022_11_09_10_47_09/backup_manifest.db",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386124",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore.db.crypt14",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/Attach/Backups/backup_settings.json.crypt14",
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/source/WhatsApp/Crypt12.h",
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/source/WhatsApp/EmoticonsUnicodeToSoftbank.h",
+		"/C/DBack_android_backup/2022_11_09_10_47_09/mediaData/2764b7c5/ImageFileData23.data",
+		"/C/DBack_android_backup/2022_09_22_13_53_52/Calendar/2022-09-22T13-53-55Z",
+		"/C/DBack_android_backup/2022_09_22_00_33_34/thumb/2022_09_22_00_38_14/PART_1661172693997_HEIC_IMG_6433",
+		"/C/DBack_android_backup/2022_09_22_13_53_52/Message/2022-09-22T13-54-06Z",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/Attach/Databases/msgstore-2022-09-21.1.db.crypt14-1663826933282165",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore-2022-09-18.1.db.crypt14_tmp",
+		"/C/Wondershare_DrFone_WhatsApp_Backup/20220920154736/R52NB0A75DY/Databases/msgstore220920-155416.db.crypt14_tmp",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386475",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/Attach/Databases/msgstore-2022-09-20.1.db.crypt14-1663826933268231",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/Attach/Databases/msgstore-2022-09-19.1.db.crypt14-1663843030740998",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/1663843044558239/msgstore.db.crypt14",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/Attach/Databases/msgstore-2022-09-15.1.db.crypt14-1663826933192462",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386379",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386414",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386270",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386343",
+		"/C/DBack_android_backup/2022_09_20_16_09_21/R52NB0A75DY/Sms/1663661386175",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/Attach/Databases/msgstore-2022-09-19.1.db.crypt14-1663826933252728",
+		"/C/WhatsApp_Recovery_Data/2022_09_22__14_02_48/1663826601848219/msgstore.db.crypt14",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/Attach/Databases/msgstore-2022-09-21.1.db.crypt14-1663843030823347",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/Attach/Backups/chatsettingsbackup.db.crypt14",
+		"/C/DBack_android_backup/2022_09_20_16_03_37/R52NB0A75DY/Sms/1663661045105",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/Attach/Databases/msgstore-2022-09-20.1.db.crypt14-1663843030798417",
+		"/C/WhatsApp_Recovery_Data/2022_09_20__16_34_01/Attach/Databases/msgstore.db.crypt14-1663843029255634",
+		"/C/DBack_android_backup/2022_11_17_08_17_25/R5CT919LRVT/Sms/1668648833921",
+		"/C/DBack_android_backup/2022_09_20_16_03_37/R52NB0A75DY/Sms/1663661044916",
+		"/C/Users/cdick/AppData/Roaming/Sublime Text/Packages/C++.sublime-package",
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/source/Exporters/ChatExporterHtml.cpp",
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/data/msgstore.db.schema.sql",
+		"/C/Users/cdick/OneDrive/Documents/GitHub/whatsapp-viewer/source/Platforms/Win32/GUI/MainWindow.cpp",
+		"/C/iMyFone D-Back for Android/2022-11-09 11-52-21/Messages/media/Ryan Work/Photo/06-02-2022 16_43_59",
+		"/C/iMyFone D-Back for Android/2022-11-09 11-52-21/Messages/media/Ryan Work/Photo/05-24-2022 09_15_42"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 103.199996948,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Crypt14.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
